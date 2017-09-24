@@ -396,7 +396,6 @@ Module.register("MMM-NOAA", {
 		return wrapper;
 	},
 });
-=======
 /* Magic Mirror
  * Module: MMM-NOAA
  * By cowboysdude and snille 
