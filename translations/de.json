@@ -13,6 +13,12 @@
 "Friday": "Freitag",
 "Saturday": "Samstag",
 "Sunday": "Sonntag",
+"Overcast": "Bedeckt",
+"Cloudy": "Wolkig",
+"Rain": "Regen",
+"Clear": "Klar",
+"Partly Cloudy": "Teilweise bewölkt",
+"Snow showers": "Schneeschauer",
 "High:  ": "Hoch: ",
 "Low:  ": "Niedrig: ",
 "Humidity: ": "Feuchtigkeit: ",
@@ -23,10 +29,10 @@
 "Sunset": "Sonnenuntergang",
 "Sunrise": "Sonnenaufgang",
 " hours ": " Std. ",
-" minutes ": " Protokoll ",
-"Amount of Daylight": "Anzahl der Tageslicht",
+" minutes ": " Min. ",
+"Amount of Daylight": "Stunden mit Tageslicht",
 "Good Morning ":"Guten Morgen ",
-  "Good Afternoon ": "Guten Nachmittag ",
-  "Good Evening ": "Guten Abend ",
-  "Air Quality Index: ":"Luftqualitätsindex: "
+"Good Afternoon ": "Guten Nachmittag ",
+"Good Evening ": "Guten Abend ",
+"Air Quality Index: ":"Luftqualitätsindex: "
 }
